@@ -11,9 +11,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/RigidBodies/ExplosionForce.unity
     guid: b9bf30e1a2a2ad1418d69c9bb55e1850
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Colliders.unity
     guid: f3ef1494e408a394f93a383dd349b24f
+  - enabled: 0
+    path: Assets/Scenes/Joints/Ej1.unity
+    guid: 2e04ef7281f389c42b0dcce25fcbe5fb
+  - enabled: 0
+    path: Assets/Scenes/Joints/Ej 2.unity
+    guid: 1fb2eb589a4597347a8e32ffaee96b5e
+  - enabled: 1
+    path: Assets/Scenes/Joints/Ej 3.unity
+    guid: e0d0e9bfda9b4fd4fafebc6c6cb91292
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
