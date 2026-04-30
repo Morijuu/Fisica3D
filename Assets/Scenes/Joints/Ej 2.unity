@@ -929,13 +929,13 @@ HingeJoint:
     targetVelocity: 0
     force: 0
     freeSpin: 0
-  m_UseLimits: 0
+  m_UseLimits: 1
   m_ExtendedLimits: 0
   m_UseAcceleration: 0
   m_Limits:
-    min: 0
-    max: 25
-    bounciness: 0
+    min: -109.014984
+    max: 110.77787
+    bounciness: 1
     bounceMinVelocity: 0.2
     contactDistance: 0
   m_BreakForce: Infinity
